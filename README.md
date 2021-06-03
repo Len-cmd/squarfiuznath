@@ -12,10 +12,8 @@
 <img align="left" alt="squarfiuz07_instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />[Instagram](https://www.instagram.com/squarfiuz07/)
 
 ### Language and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png">
-
 <img align="left" alt="Html" width="26px" src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png">
 <img align="left" alt="Css" width="26px" src="https://verekia.com/_pages/css3/introduction-css3/img/css3-logo.png">
-<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png">
+<img align="left" alt="JavaScript" width="26px" src="https://www.kite.com/wp-content/uploads/2020/10/ic_javascript_m.png">
 
 
