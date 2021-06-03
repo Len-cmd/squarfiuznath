@@ -10,10 +10,3 @@
 <br>
 <br>
 <img align="left" alt="squarfiuz07_instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />[Instagram](https://www.instagram.com/squarfiuz07/)
-
-### Language and Tools:
-<img align="left" alt="Html" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/langfr-800px-HTML5_logo_and_wordmark.svg.png">
-<img align="left" alt="Css" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png">
-<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png">
-
-
