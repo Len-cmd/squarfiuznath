@@ -6,6 +6,10 @@
 </ul>
 
 ### Connect with me:
-<img align="left" alt="squarfiuznath" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />[Youtube](https://www.youtube.com/channel/UC2ACluqDgpeNbexpdaTACmw/videos)
+<img align="left" alt="squarfiuz07_youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />[Youtube](https://www.youtube.com/channel/UC2ACluqDgpeNbexpdaTACmw/videos)
 <br>
-<img align="left" alt="squarfiuznath" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />[Instagram](https://www.instagram.com/squarfiuz07/)
+<br>
+<img align="left" alt="squarfiuz07_instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />[Instagram](https://www.instagram.com/squarfiuz07/)
+
+### Language and Tools:
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/
